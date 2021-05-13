@@ -4973,6 +4973,12 @@ public final class Settings {
         public static final String FOOTER_TEXT_SHOW = "footer_text_show";
 
         /**
+         * FOD icon animation
+         * @hide
+         */
+        public static final String FOD_ICON_ANIMATION = "fod_icon_animation";
+
+        /**
           * Whether to change the transparency of the qs header
           * @hide
           */
